@@ -14,6 +14,4 @@ Lab Projects &amp; Theoretical Problems of the Digital Signal Processing course 
 - Teager-Kaiser Energy calculation on multiband frequencies with Gabor filterbanks.
 - Feature Extraction, PCA, Clustering with k-means.
 - Denoising of movement signals with Butterworth & Wiener filters.
-- Power Spectrum Estimation with Schuster, Welch & Lomb-Scargle periodograms
-
-# Theoretical Problems
+- Power Spectrum Estimation with Schuster, Welch & Lomb-Scargle periodograms.
