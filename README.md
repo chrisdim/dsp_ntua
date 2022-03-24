@@ -1,5 +1,6 @@
 # [ECE NTUA] Digital Signal Processing
 Lab Projects &amp; Theoretical Problems of the Digital Signal Processing course held by ECE - NTUA during the Spring Semester of 2020-2021.
+- Loyal Friend and Lab Partner: [Dimitris Dimos](https://github.com/d-dimos)
 
 # Lab Projects
 
